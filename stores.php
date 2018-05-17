@@ -55,19 +55,19 @@ Ping Us - chaishots@gmail.com
 							<div class="col-md-4">
 								<div class="single-defination">
 									<h4 class="mb-20">Store 1</h4>
-									<p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks</p>
+									<p>Shop 27-A, DLF Tower A, Jasola, New Delhi </p>
 								</div>
 							</div>
 							<div class="col-md-4">
 								<div class="single-defination">
 									<h4 class="mb-20">Store 2</h4>
-									<p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks</p>
+									<p>Shop 5, Corner Market, Maharshi Dayanand Marg, Malviya Nagar, New Delhi</p>
 								</div>
 							</div>
 							<div class="col-md-4">
 								<div class="single-defination">
 									<h4 class="mb-20">Store 3</h4>
-									<p>Recently, the US Federal government banned online casinos from operating in America by making it illegal to transfer money to them through any US bank or payment system. As a result of this law, most of the popular online casino networks</p>
+									<p>A-71, Ground Floor, Main Road, Kalkaji, New Delhi</p>
 								</div>
 							</div>
 						</div>
