@@ -38,12 +38,6 @@
 				  			<div class="col-lg-8 col-sm-4 col-8 header-top-right no-padding">
 				  				<ul>
 				  					<li>
-				  						Mon-Fri: 8am to 2pm
-				  					</li>
-				  					<li>
-				  						Sat-Sun: 11am to 4pm
-				  					</li>
-				  					<li>
 				  						<a href="tel:(012) 6985 236 7512">+91-92051-35137</a>
 				  					</li>				  					
 				  				</ul>
@@ -128,7 +122,7 @@
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-10">
 							<div class="title text-center">
-								<h1 class="mb-10">What kind of Coffee we serve for you</h1>
+								<h1 class="mb-10">What kind of Products we serve for you</h1>
 								<p>Who are in extremely love with eco friendly system.</p>
 							</div>
 						</div>
@@ -253,16 +247,19 @@
 						</div>															
 					</div>
 				</div>	
+				<div align="center">
+					<a href="products.php" class="genric-btn primary circle">Explore more Products<span class="lnr lnr-arrow-right"></span></a>
+				</div>
 			</section>
 			<!-- End menu Area -->
 			
-			<!-- Start gallery Area -->
+			<!-- Start gallery Area --> 
 			<section class="gallery-area section-gap" id="gallery">
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-10">
 							<div class="title text-center">
-								<h1 class="mb-10">What kind of Coffee we serve for you</h1>
+								<h1 class="mb-10">What kind of Products we serve for you</h1>
 								<p>Who are in extremely love with eco friendly system.</p>
 							</div>
 						</div>
@@ -371,7 +368,7 @@
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-10">
 							<div class="title text-center">
-								<h1 class="mb-10">What kind of ChaiShots we serve for you</h1>
+								<h1 class="mb-10">What kind of Products we serve for you</h1>
 								<p>Who are in extremely love with eco friendly system.</p>
 							</div>
 						</div>

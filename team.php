@@ -51,7 +51,7 @@
 						<h3 class="mb-30">Mr.Tan</h3>
 						<div class="row">
 							<div class="col-md-3">
-								<img src="img/elements/d.jpg" alt="" class="img-fluid">
+								<img src="img/founder.jpeg" alt="" class="img-fluid">
 							</div>
 							<div class="col-md-9 mt-sm-20" style="text-align:justify;">
 								<p>Tanay Agarwal is responsible for defining Chaishots strategy and brand promise and for aligning various functions to deliver successfully on these. Tanay has a background in Engineering and Technology from BITS Pilani and Communication Marketing from IMT Ghaziabad.</p>
@@ -64,24 +64,6 @@ Tanay firmly believes in bringing the knowledge to the table and he is very pass
 									<a href="https://www.instagram.com/chaishots"><i class="fa fa-instagram"></i></a>
 									<a href="#"><i class="fa fa-google-plus"></i></a>
 </div>
-							</div>
-						</div>
-					</div>
-					<div class="section-top-border text-right">
-						<h3 class="mb-30">Mr. Xyz</h3>
-						<div class="row">
-							<div class="col-md-9" style="text-align:justify;">
-								<p class="text-right">Over time, even the most sophisticated, memory packed computer can begin to run slow if we don’t do something to prevent it. The reason why has less to do with how computers are made and how they age and more to do with the way we use them. You see, all of the daily tasks that we do on our PC from running programs to downloading and deleting software can make our computer sluggish. To keep this from happening, you need to understand the reasons why your PC is getting slower and do something to keep your PC running at its best. You can do this through regular maintenance and PC performance optimization programs</p>
-								<p class="text-right">Before we discuss all of the things that could be affecting your PC’s performance, let’s talk a little about what symptoms</p>
-								<div class="footer-social d-flex align-items-center">
-									<a href="https://www.facebook.com/chaishots"><i class="fa fa-facebook"></i></a>
-									<a href="https://www.twitter.com/chaishots"><i class="fa fa-twitter"></i></a>
-									<a href="https://www.instagram.com/chaishots"><i class="fa fa-instagram"></i></a>
-									<a href="#"><i class="fa fa-google-plus"></i></a>
-								</div>
-							</div>
-							<div class="col-md-3">
-								<img src="img/elements/d.jpg" alt="" class="img-fluid">
 							</div>
 						</div>
 					</div>

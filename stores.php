@@ -54,19 +54,22 @@ Ping Us - chaishots@gmail.com
 						<div class="row">
 							<div class="col-md-4">
 								<div class="single-defination">
-									<h4 class="mb-20">Store 1</h4>
+									<img src="img/store.png"/>
+									<h4 class="mb-20">ChaiShots Store A</h4>
 									<p>Shop 27-A, DLF Tower A, Jasola, New Delhi </p>
 								</div>
 							</div>
 							<div class="col-md-4">
 								<div class="single-defination">
-									<h4 class="mb-20">Store 2</h4>
+									<img src="img/store.png"/>
+									<h4 class="mb-20">ChaiShots Store B</h4>
 									<p>Shop 5, Corner Market, Maharshi Dayanand Marg, Malviya Nagar, New Delhi</p>
 								</div>
 							</div>
 							<div class="col-md-4">
 								<div class="single-defination">
-									<h4 class="mb-20">Store 3</h4>
+									<img src="img/store.png"/>
+									<h4 class="mb-20">ChaiShots Store C</h4>
 									<p>A-71, Ground Floor, Main Road, Kalkaji, New Delhi</p>
 								</div>
 							</div>

@@ -5,12 +5,6 @@
 				  			<div class="col-lg-8 col-sm-4 col-8 header-top-right no-padding">
 				  				<ul>
 				  					<li>
-				  						Mon-Fri: 8am to 2pm
-				  					</li>
-				  					<li>
-				  						Sat-Sun: 11am to 4pm
-				  					</li>
-				  					<li>
 				  						<a href="tel:(012) 6985 236 7512">+91-92051-35137</a>
 				  					</li>				  					
 				  				</ul>
