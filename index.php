@@ -4,7 +4,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/fav.png">
+		<link rel="shortcut icon" href="img/favicon.png">
 		<!-- Author Meta -->
 		<meta name="author" content="codepixer">
 		<!-- Meta Description -->
@@ -48,7 +48,7 @@
 			    <div class="container">
 			    	<div class="row align-items-center justify-content-between d-flex">
 				      <div id="logo">
-				        <a href="index.php"><!-- <img src="img/logo.png" alt="" title="" /> -->ChaiShots</a>
+				        <a href="index.php"><img src="img/chai64.png" alt="" title="" /></a>
 				      </div>
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
@@ -78,7 +78,7 @@
 				<div class="container">
 					<div class="row fullscreen d-flex align-items-center justify-content-start">
 						<div class="banner-content col-lg-7">
-							<h6 class="text-white text-uppercase">Now you can feel the Energy</h6>
+							<!-- <h6 class="text-white text-uppercase">Now you can feel the Energy</h6> -->
 							<h1>
 								Start your day with <br>
 								energetic Chai				
