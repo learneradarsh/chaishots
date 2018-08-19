@@ -56,7 +56,7 @@
 				          <li><a href="#about">About</a></li>
 				          <li><a href="#coffee">Products</a></li>
 				          <li><a href="#review">Review</a></li>
-				          <li><a href="#blog">Blog</a></li>
+				          <li><a href="blog.php">Blog</a></li>
 				          <li><a href="contact.php">Contact Us</a></li>
 				          <li><a href="team.php">Team</a></li>
 				          <li><a href="stores.php">Our Stores</a></li>
@@ -95,7 +95,7 @@
 				<div class="container">
 					<div class="row justify-content-start align-items-center">
 						<div class="col-lg-6 video-right justify-content-center align-items-center d-flex">
-							<div class="overlay overlay-bg"></div>
+ 							<div class="overlay overlay-bg"></div>
 							<a class="play-btn" href="https://www.youtube.com/watch?v=ARA0AxrnHdM"><img class="img-fluid" src="img/play-icon.png" alt=""></a>
 						</div>						
 						<div class="col-lg-6 video-left">
@@ -109,7 +109,6 @@
 								Chai Shots is currently present in Jasola, Kalkaji and Malviya Nagar (New-Delhi)
 
 							</p>
-							<img class="img-fluid" src="img/signature.png" alt="">
 						</div>
 					</div>
 				</div>	
@@ -131,9 +130,9 @@
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Cappuccino</h4>
+									<h4>Adrak Tulsi Chai</h4>
 									<p class="price float-right">
-										$49
+										Rs. 39/-
 									</p>
 								</div>
 								<p>
@@ -144,9 +143,9 @@
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Americano</h4>
+									<h4>Honey Ginger Lemon Chai</h4>
 									<p class="price float-right">
-										$49
+										Rs.49/-
 									</p>
 								</div>
 								<p>
@@ -157,9 +156,9 @@
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Espresso</h4>
+									<h4>Poha</h4>
 									<p class="price float-right">
-										$49
+										Rs. 79/-
 									</p>
 								</div>
 								<p>
@@ -170,9 +169,9 @@
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Macchiato</h4>
+									<h4>Lemon Ice Tea</h4>
 									<p class="price float-right">
-										$49
+										Rs. 69/-
 									</p>
 								</div>
 								<p>
@@ -183,9 +182,9 @@
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Mocha</h4>
+									<h4>Oreo Shake</h4>
 									<p class="price float-right">
-										$49
+										Rs. 89/-
 									</p>
 								</div>
 								<p>
@@ -196,9 +195,9 @@
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Coffee Latte</h4>
+									<h4>Cheesy Bun Omelette</h4>
 									<p class="price float-right">
-										$49
+										Rs. 59/-
 									</p>
 								</div>
 								<p>
@@ -209,9 +208,9 @@
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Piccolo Latte</h4>
+									<h4>Classic Veg Maggie</h4>
 									<p class="price float-right">
-										$49
+										Rs. 59/-
 									</p>
 								</div>
 								<p>
@@ -222,9 +221,9 @@
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Ristretto</h4>
+									<h4>Penne Pasta</h4>
 									<p class="price float-right">
-										$49
+										Rs. 99/-
 									</p>
 								</div>
 								<p>
@@ -235,16 +234,55 @@
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Affogato</h4>
+									<h4>Green Chutney and Potato Sandwich</h4>
 									<p class="price float-right">
-										$49
+										Rs.69/-
 									</p>
 								</div>
 								<p>
 									Usage of the Internet is becoming more common due to rapid advance.
 								</p>								
 							</div>
-						</div>															
+						</div>
+						<div class="col-lg-4">
+							<div class="single-menu">
+								<div class="title-div justify-content-between d-flex">
+									<h4>Brownie with Ice Cream</h4>
+									<p class="price float-right">
+										Rs. 69/-
+									</p>
+								</div>
+								<p>
+									Usage of the Internet is becoming more common due to rapid advance.
+								</p>								
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-menu">
+								<div class="title-div justify-content-between d-flex">
+									<h4>Pav Bhaji</h4>
+									<p class="price float-right">
+										Rs. 89/-
+									</p>
+								</div>
+								<p>
+									Usage of the Internet is becoming more common due to rapid advance.
+								</p>								
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-menu">
+								<div class="title-div justify-content-between d-flex">
+									<h4>Egg Platter</h4>
+									<p class="price float-right">
+										Rs. 79/-
+									</p>
+								</div>
+								<p>
+									Usage of the Internet is becoming more common due to rapid advance.
+								</p>								
+							</div>
+						</div>																
 					</div>
 				</div>	
 				<div align="center">
@@ -363,7 +401,7 @@
 			<!-- End review Area -->
 			
 			<!-- Start blog Area -->
-			<section class="blog-area section-gap" id="blog">
+		<!--	<section class="blog-area section-gap" id="blog">
 				<div class="container">
 					<div class="row d-flex justify-content-center">
 						<div class="menu-content pb-60 col-lg-10">
@@ -404,7 +442,7 @@
 						</div>						
 					</div>
 				</div>	
-			</section>
+			</section> -->
 			<!-- End blog Area -->
 			<?php include 'includes/footer.php'; ?>
 

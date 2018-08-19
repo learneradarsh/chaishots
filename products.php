@@ -63,9 +63,9 @@ Ping Us - chaishots@gmail.com
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Cappuccino</h4>
+									<h4>Adrak Tulsi Chai</h4>
 									<p class="price float-right">
-										$49
+										Rs.39/-
 									</p>
 								</div>
 								<p>
@@ -76,9 +76,9 @@ Ping Us - chaishots@gmail.com
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Americano</h4>
+									<h4>Honey Ginger Lemon Chai</h4>
 									<p class="price float-right">
-										$49
+										Rs.49/-
 									</p>
 								</div>
 								<p>
@@ -89,9 +89,9 @@ Ping Us - chaishots@gmail.com
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Espresso</h4>
+									<h4>Poha</h4>
 									<p class="price float-right">
-										$49
+										Rs.79/-
 									</p>
 								</div>
 								<p>
@@ -102,9 +102,9 @@ Ping Us - chaishots@gmail.com
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Macchiato</h4>
+									<h4>Lemon Ice Tea</h4>
 									<p class="price float-right">
-										$49
+										Rs.69/-
 									</p>
 								</div>
 								<p>
@@ -115,9 +115,9 @@ Ping Us - chaishots@gmail.com
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Mocha</h4>
+									<h4>Oreo Shake</h4>
 									<p class="price float-right">
-										$49
+										Rs.89/-
 									</p>
 								</div>
 								<p>
@@ -128,9 +128,9 @@ Ping Us - chaishots@gmail.com
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Coffee Latte</h4>
+									<h4>Cheesy Bun Omelette</h4>
 									<p class="price float-right">
-										$49
+										Rs.59/-
 									</p>
 								</div>
 								<p>
@@ -141,9 +141,9 @@ Ping Us - chaishots@gmail.com
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Piccolo Latte</h4>
+									<h4>Classic Veg Maggie</h4>
 									<p class="price float-right">
-										$49
+										Rs.59/-
 									</p>
 								</div>
 								<p>
@@ -154,9 +154,9 @@ Ping Us - chaishots@gmail.com
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Ristretto</h4>
+									<h4>Penne Pasta</h4>
 									<p class="price float-right">
-										$49
+										Rs.99/-
 									</p>
 								</div>
 								<p>
@@ -167,9 +167,48 @@ Ping Us - chaishots@gmail.com
 						<div class="col-lg-4">
 							<div class="single-menu">
 								<div class="title-div justify-content-between d-flex">
-									<h4>Affogato</h4>
+									<h4>Green Chutney and Potato Sandwich</h4>
 									<p class="price float-right">
-										$49
+										Rs.69/-
+									</p>
+								</div>
+								<p>
+									Usage of the Internet is becoming more common due to rapid advance.
+								</p>								
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-menu">
+								<div class="title-div justify-content-between d-flex">
+									<h4>Brownie with Ice Cream</h4>
+									<p class="price float-right">
+										Rs.69/-
+									</p>
+								</div>
+								<p>
+									Usage of the Internet is becoming more common due to rapid advance.
+								</p>								
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-menu">
+								<div class="title-div justify-content-between d-flex">
+									<h4>Pav Bhaji</h4>
+									<p class="price float-right">
+										Rs.89/-
+									</p>
+								</div>
+								<p>
+									Usage of the Internet is becoming more common due to rapid advance.
+								</p>								
+							</div>
+						</div>	
+						<div class="col-lg-4">
+							<div class="single-menu">
+								<div class="title-div justify-content-between d-flex">
+									<h4>Egg Platter</h4>
+									<p class="price float-right">
+										Rs.79/-
 									</p>
 								</div>
 								<p>

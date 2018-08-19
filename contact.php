@@ -38,10 +38,8 @@
 						<div class="col-lg-10">
 							<div class="generic-banner-content">
 								<h2 class="text-white">Contact Us</h2>
-								<p class="text-white">Hi Say Hello – +91-92051-35137
-
-Ping Us - chaishots@gmail.com
-</p>
+								<p class="text-white">Hi Say Hello – +91-92051-35137</p>
+								<p class="text-white">Ping Us - hi@chaishots.in</p>
 							</div>
 						</div>
 					</div>

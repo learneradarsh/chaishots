@@ -14,7 +14,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>Chaishots</title>
+		<title>Chaishots | Stores</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -38,39 +38,39 @@
 						<div class="col-lg-10">
 							<div class="generic-banner-content">
 								<h2 class="text-white">Reach Our Store</h2>
-								<p class="text-white">Hi Say Hello – +91-92051-35137
-
-Ping Us - chaishots@gmail.com
-</p>
+								<p class="text-white">Say Hello – +91-92051-35137</p>
+								<p class="text-white">Ping Us - hi@chaishots.in</p>
 							</div>
 						</div>
 					</div>
 				</div>
 			</section>		
 			<!-- End banner Area -->
-			<div class="container">
+			<div class="container" align="center">
 				<div class="section-top-border">
 
 						<div class="row">
 							<div class="col-md-4">
 								<div class="single-defination">
 									<img src="img/store.png"/>
-									<h4 class="mb-20">ChaiShots Store A</h4>
 									<p>Shop 27-A, DLF Tower A, Jasola, New Delhi </p>
+									<p>91 9205398983</p>
+									<p>+91 9205135137</p>
 								</div>
 							</div>
 							<div class="col-md-4">
 								<div class="single-defination">
 									<img src="img/store.png"/>
-									<h4 class="mb-20">ChaiShots Store B</h4>
 									<p>Shop 5, Corner Market, Maharshi Dayanand Marg, Malviya Nagar, New Delhi</p>
+									<p>+91 9711999411</p>
 								</div>
 							</div>
 							<div class="col-md-4">
 								<div class="single-defination">
 									<img src="img/store.png"/>
-									<h4 class="mb-20">ChaiShots Store C</h4>
 									<p>A-71, Ground Floor, Main Road, Kalkaji, New Delhi</p>
+									<p>011 40078922</p>
+									<p>+91 9999462362</p>
 								</div>
 							</div>
 						</div>

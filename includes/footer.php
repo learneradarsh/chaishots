@@ -13,7 +13,7 @@
 								</p>
 								<p class="footer-text">
 									<!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
-Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | ChaiShots <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://chaishots.in/" target="_blank">LearnShiz Techies</a>
+Copyright &copy;<script>document.write(new Date().getFullYear());</script> All rights reserved | ChaiShots <i class="fa fa-heart-o" aria-hidden="true"></i> by <a href="https://learnshiz.com/" target="_blank">LearnShiz Techies</a>
 <!-- Link back to Colorlib can't be removed. Template is licensed under CC BY 3.0. -->
 								</p>								
 							</div>

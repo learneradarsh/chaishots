@@ -14,7 +14,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>ChaiShots</title>
+		<title>ChaiShots | Team</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -48,7 +48,7 @@
 			<!-- End banner Area -->
 			<div class="container">
 					<div class="section-top-border">
-						<h3 class="mb-30">Mr.Tan</h3>
+						<h3 class="mb-30">Mr.Tanay</h3>
 						<div class="row">
 							<div class="col-md-3">
 								<img src="img/founder.jpeg" alt="" class="img-fluid">

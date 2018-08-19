@@ -23,7 +23,7 @@
 				          <li><a href="index.php#about">About</a></li>
 				          <li><a href="index.php#coffee">Products</a></li>
 				          <li><a href="index.php#review">Review</a></li>
-				          <li><a href="index.php#blog">Blog</a></li>
+				          <li><a href="blog.php">Blog</a></li>
 				          <li><a href="contact.php">Contact Us</a></li>
 				          <li><a href="team.php">Team</a></li>
 				          <li><a href="stores.php">Our Stores</a></li>
