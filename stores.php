@@ -4,7 +4,7 @@
 		<!-- Mobile Specific Meta -->
 		<meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
 		<!-- Favicon-->
-		<link rel="shortcut icon" href="img/elements/fav.png">
+		<link rel="shortcut icon" href="img/favicon.png">
 		<!-- Author Meta -->
 		<meta name="author" content="colorlib">
 		<!-- Meta Description -->
@@ -38,7 +38,7 @@
 						<div class="col-lg-10">
 							<div class="generic-banner-content">
 								<h2 class="text-white">Reach Our Store</h2>
-								<p class="text-white">Say Hello – +91-92051-35137</p>
+								<p class="text-white">Say Hi – +91-92051-35137</p>
 								<p class="text-white">Ping Us - hi@chaishots.in</p>
 							</div>
 						</div>

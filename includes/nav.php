@@ -5,7 +5,7 @@
 				  			<div class="col-lg-8 col-sm-4 col-8 header-top-right no-padding">
 				  				<ul>
 				  					<li>
-				  						<a href="tel:(012) 6985 236 7512">+91-92051-35137</a>
+				  						
 				  					</li>				  					
 				  				</ul>
 				  			</div>
