@@ -38,7 +38,7 @@
 				  			<div class="col-lg-8 col-sm-4 col-8 header-top-right no-padding">
 				  				<ul>
 				  					<li>
-				  						<a href="tel:(012) 6985 236 7512">+91-92051-35137</a>
+				  						
 				  					</li>				  					
 				  				</ul>
 				  			</div>
@@ -312,8 +312,8 @@
 							</a>	
 						</div>
 						<div class="col-lg-8">
-							<a href="img/new/Brownie_Icecream.jpg" class="img-pop-home">
-								<img class="img-fluid" src="img/new/Brownie_Icecream.jpg" alt="">
+							<a href="img/new/Honey_Ginger_Lemon_Tea.jpg" class="img-pop-home">
+								<img class="img-fluid" src="img/new/Honey_Ginger_Lemon_Tea.jpg" alt="">
 							</a>	
 							<div class="row">
 								<div class="col-lg-6">
