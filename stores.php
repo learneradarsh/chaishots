@@ -39,7 +39,7 @@
 							<div class="generic-banner-content">
 								<h2 class="text-white">Reach Our Store</h2>
 								<p class="text-white">Say Hi – +91-92051-35137</p>
-								<p class="text-white">Ping Us - hi@chaishots.in</p>
+								<p class="text-white">Ping Us - hello@chaishots.in</p>
 							</div>
 						</div>
 					</div>

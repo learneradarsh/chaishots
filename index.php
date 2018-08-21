@@ -132,7 +132,7 @@
 								<div class="title-div justify-content-between d-flex">
 									<h4>Adrak Tulsi Chai</h4>
 									<p class="price float-right">
-										Rs. 39/-
+										<span style="font-family: sans-serif;">Rs. 39/-</span>
 									</p>
 								</div>
 								<p>
@@ -145,7 +145,7 @@
 								<div class="title-div justify-content-between d-flex">
 									<h4>Honey Ginger Lemon Chai</h4>
 									<p class="price float-right">
-										Rs.49/-
+										<span style="font-family: sans-serif;">Rs.49/-</span>
 									</p>
 								</div>
 								<p>
@@ -158,7 +158,7 @@
 								<div class="title-div justify-content-between d-flex">
 									<h4>Poha</h4>
 									<p class="price float-right">
-										Rs. 79/-
+										<span style="font-family: sans-serif;">Rs. 79/-</span>
 									</p>
 								</div>
 								<p>
@@ -171,7 +171,7 @@
 								<div class="title-div justify-content-between d-flex">
 									<h4>Lemon Ice Tea</h4>
 									<p class="price float-right">
-										Rs. 69/-
+										<span style="font-family: sans-serif;">Rs. 69/-</span>
 									</p>
 								</div>
 								<p>
@@ -184,7 +184,7 @@
 								<div class="title-div justify-content-between d-flex">
 									<h4>Oreo Shake</h4>
 									<p class="price float-right">
-										Rs. 89/-
+										<span style="font-family: sans-serif;">Rs. 89/-</span>
 									</p>
 								</div>
 								<p>
@@ -197,7 +197,7 @@
 								<div class="title-div justify-content-between d-flex">
 									<h4>Cheesy Bun Omelette</h4>
 									<p class="price float-right">
-										Rs. 59/-
+										<span style="font-family: sans-serif;">Rs. 59/-</span>
 									</p>
 								</div>
 								<p>
@@ -210,7 +210,7 @@
 								<div class="title-div justify-content-between d-flex">
 									<h4>Classic Veg Maggie</h4>
 									<p class="price float-right">
-										Rs. 59/-
+										<span style="font-family: sans-serif;">Rs. 59/-</span>
 									</p>
 								</div>
 								<p>
@@ -223,7 +223,7 @@
 								<div class="title-div justify-content-between d-flex">
 									<h4>Penne Pasta</h4>
 									<p class="price float-right">
-										Rs. 99/-
+										<span style="font-family: sans-serif;">Rs. 99/-</span>
 									</p>
 								</div>
 								<p>
@@ -236,7 +236,7 @@
 								<div class="title-div justify-content-between d-flex">
 									<h4>Green Chutney and Potato Sandwich</h4>
 									<p class="price float-right">
-										Rs.69/-
+										<span style="font-family: sans-serif;">Rs.69/-</span>
 									</p>
 								</div>
 								<p>
@@ -249,7 +249,7 @@
 								<div class="title-div justify-content-between d-flex">
 									<h4>Brownie with Ice Cream</h4>
 									<p class="price float-right">
-										Rs. 69/-
+										<span style="font-family: sans-serif;">Rs. 69/-</span>
 									</p>
 								</div>
 								<p>
@@ -262,7 +262,7 @@
 								<div class="title-div justify-content-between d-flex">
 									<h4>Pav Bhaji</h4>
 									<p class="price float-right">
-										Rs. 89/-
+										<span style="font-family: sans-serif;">Rs. 89/-</span>
 									</p>
 								</div>
 								<p>
@@ -275,7 +275,7 @@
 								<div class="title-div justify-content-between d-flex">
 									<h4>Egg Platter</h4>
 									<p class="price float-right">
-										Rs. 79/-
+										<span style="font-family: sans-serif;">Rs. 79/-</span>
 									</p>
 								</div>
 								<p>
@@ -312,8 +312,8 @@
 							</a>	
 						</div>
 						<div class="col-lg-8">
-							<a href="img/new/Honey_Ginger_Lemon_Tea.jpg" class="img-pop-home">
-								<img class="img-fluid" src="img/new/Honey_Ginger_Lemon_Tea.jpg" alt="">
+							<a href="img/new/Chai_Shots_Thematic.jpg" class="img-pop-home">
+								<img class="img-fluid" src="img/new/Chai_Shots_Thematic.jpg" alt="">
 							</a>	
 							<div class="row">
 								<div class="col-lg-6">
@@ -348,12 +348,12 @@
 						<div class="col-lg-6 col-md-6 single-review">
 							<!-- <img src="img/r1.png" alt=""> -->
 							<div class="title d-flex flex-row">
-								<h4>Mr.Amar</h4>
+								<h4>Richa</h4>
 								<div class="star">
 									<span class="fa fa-star checked"></span>
 									<span class="fa fa-star checked"></span>
 									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star"></span>
+									<span class="fa fa-star checked"></span>
 									<span class="fa fa-star"></span>								
 								</div>
 							</div>
@@ -364,13 +364,13 @@
 						<div class="col-lg-6 col-md-6 single-review">
 							<!-- <img src="img/r2.png" alt=""> -->
 							<div class="title d-flex flex-row">
-								<h4>Mr.Anand</h4>
+								<h4>Ankit</h4>
 								<div class="star">
 									<span class="fa fa-star checked"></span>
 									<span class="fa fa-star checked"></span>
-									<span class="fa fa-star"></span>
-									<span class="fa fa-star"></span>
-									<span class="fa fa-star"></span>								
+									<span class="fa fa-star checked"></span>
+									<span class="fa fa-star checked"></span>
+									<span class="fa fa-star checked"></span>								
 								</div>
 							</div>
 							<p>
@@ -380,19 +380,20 @@
 					</div>
 					<div class="row counter-row">
 						<div class="col-lg-3 col-md-6 single-counter">
-							<h1 class="counter">25</h1>
+							<h1>250+</h1>
+							<!--<h1 class="counter">250</h1>-->
 							<p>Happy Client</p>
 						</div>
 						<div class="col-lg-3 col-md-6 single-counter">
-							<h1 class="counter">75</h1>
+							<h1>75+</h1>
 							<p>Total Products</p>
 						</div>
 						<div class="col-lg-3 col-md-6 single-counter">
-							<h1 class="counter">2013</h1>
+							<h1>2000+</h1>
 							<p>Cups Tea</p>
 						</div>
 						<div class="col-lg-3 col-md-6 single-counter">
-							<h1 class="counter">10</h1>
+							<h1>4+</h1>
 							<p>Total Stores</p>
 						</div>																		
 					</div>

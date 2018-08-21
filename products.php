@@ -65,7 +65,7 @@ Ping Us - chaishots@gmail.com
 								<div class="title-div justify-content-between d-flex">
 									<h4>Adrak Tulsi Chai</h4>
 									<p class="price float-right">
-										Rs.39/-
+										<span style="font-family: sans-serif;">Rs.39/-</span>
 									</p>
 								</div>
 								<p>
@@ -78,7 +78,7 @@ Ping Us - chaishots@gmail.com
 								<div class="title-div justify-content-between d-flex">
 									<h4>Honey Ginger Lemon Chai</h4>
 									<p class="price float-right">
-										Rs.49/-
+										<span style="font-family: sans-serif;">Rs.49/-</span>
 									</p>
 								</div>
 								<p>
@@ -91,7 +91,7 @@ Ping Us - chaishots@gmail.com
 								<div class="title-div justify-content-between d-flex">
 									<h4>Poha</h4>
 									<p class="price float-right">
-										Rs.79/-
+										<span style="font-family: sans-serif;">Rs.79/-</span>
 									</p>
 								</div>
 								<p>
@@ -104,7 +104,7 @@ Ping Us - chaishots@gmail.com
 								<div class="title-div justify-content-between d-flex">
 									<h4>Lemon Ice Tea</h4>
 									<p class="price float-right">
-										Rs.69/-
+										<span style="font-family: sans-serif;">Rs.69/-</span>
 									</p>
 								</div>
 								<p>
@@ -117,7 +117,7 @@ Ping Us - chaishots@gmail.com
 								<div class="title-div justify-content-between d-flex">
 									<h4>Oreo Shake</h4>
 									<p class="price float-right">
-										Rs.89/-
+										<span style="font-family: sans-serif;">Rs.89/-</span>
 									</p>
 								</div>
 								<p>
@@ -130,7 +130,7 @@ Ping Us - chaishots@gmail.com
 								<div class="title-div justify-content-between d-flex">
 									<h4>Cheesy Bun Omelette</h4>
 									<p class="price float-right">
-										Rs.59/-
+										<span style="font-family: sans-serif;">Rs.59/-</span>
 									</p>
 								</div>
 								<p>
@@ -143,7 +143,7 @@ Ping Us - chaishots@gmail.com
 								<div class="title-div justify-content-between d-flex">
 									<h4>Classic Veg Maggie</h4>
 									<p class="price float-right">
-										Rs.59/-
+										<span style="font-family: sans-serif;">Rs.59/-</span>
 									</p>
 								</div>
 								<p>
@@ -156,7 +156,7 @@ Ping Us - chaishots@gmail.com
 								<div class="title-div justify-content-between d-flex">
 									<h4>Penne Pasta</h4>
 									<p class="price float-right">
-										Rs.99/-
+										<span style="font-family: sans-serif;">Rs.99/-</span>
 									</p>
 								</div>
 								<p>
@@ -169,7 +169,7 @@ Ping Us - chaishots@gmail.com
 								<div class="title-div justify-content-between d-flex">
 									<h4>Green Chutney and Potato Sandwich</h4>
 									<p class="price float-right">
-										Rs.69/-
+										<span style="font-family: sans-serif;">Rs.69/-</span>
 									</p>
 								</div>
 								<p>
@@ -182,7 +182,7 @@ Ping Us - chaishots@gmail.com
 								<div class="title-div justify-content-between d-flex">
 									<h4>Brownie with Ice Cream</h4>
 									<p class="price float-right">
-										Rs.69/-
+										<span style="font-family: sans-serif;">Rs.69/-</span>
 									</p>
 								</div>
 								<p>
@@ -195,7 +195,7 @@ Ping Us - chaishots@gmail.com
 								<div class="title-div justify-content-between d-flex">
 									<h4>Pav Bhaji</h4>
 									<p class="price float-right">
-										Rs.89/-
+										<span style="font-family: sans-serif;">Rs.89/-</span>
 									</p>
 								</div>
 								<p>
@@ -208,7 +208,7 @@ Ping Us - chaishots@gmail.com
 								<div class="title-div justify-content-between d-flex">
 									<h4>Egg Platter</h4>
 									<p class="price float-right">
-										Rs.79/-
+										<span style="font-family: sans-serif;">Rs.79/-</span>
 									</p>
 								</div>
 								<p>

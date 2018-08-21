@@ -48,7 +48,7 @@
 			<!-- End banner Area -->
 			<div class="container">
 					<div class="section-top-border">
-						<h3 class="mb-30">Mr.Tanay</h3>
+						<h3 class="mb-30">Tanay Agarwal</h3>
 						<div class="row">
 							<div class="col-md-3">
 								<img src="img/founder.jpeg" alt="" class="img-fluid">
