@@ -53,7 +53,7 @@
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
 				          <li class="menu-active"><a href="#home">Home</a></li>
-				          <li><a href="#about">About</a></li>
+				          <li><a href="aboutus.php">About</a></li>
 				          <li><a href="#coffee">Products</a></li>
 				          <li><a href="#review">Review</a></li>
 				          <li><a href="blog.php">Blog</a></li>

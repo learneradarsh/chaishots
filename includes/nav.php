@@ -20,7 +20,7 @@
 				      <nav id="nav-menu-container">
 				        <ul class="nav-menu">
 				          <li class="menu-active"><a href="index.php#home">Home</a></li>
-				          <li><a href="index.php#about">About</a></li>
+				          <li><a href="aboutus.php">About</a></li>
 				          <li><a href="index.php#coffee">Products</a></li>
 				          <li><a href="index.php#review">Review</a></li>
 				          <li><a href="blog.php">Blog</a></li>
