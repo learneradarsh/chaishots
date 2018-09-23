@@ -14,7 +14,7 @@
 		<!-- meta character set -->
 		<meta charset="UTF-8">
 		<!-- Site Title -->
-		<title>ChaiShots | Team</title>
+		<title>ChaiShots | About Us</title>
 
 		<link href="https://fonts.googleapis.com/css?family=Poppins:100,200,400,300,500,600,700" rel="stylesheet"> 
 			<!--
@@ -45,55 +45,124 @@
 				</div>
 			</section>		
 			<!-- End banner Area -->
-			<div class="container" style="margin-top: 10px;">
-				<div>
-					<h2 style="text-align:center; margin-top: 1%;">What is Chai Shots<h2>
-					<p> 
-						<ol style="font-size: 16px;" >
-							<li>1. We are a fast-casual chain of cafés under the brand of 'Chai Shots' with theaim of serving a daily dose of a healthy breakfast and all-day snacks with great chai.</li>
-							<li>2. We serve our customers (both retail and corporates) with faster turnaround times through a takeaway-model coupled with a backbone of a robust delivery system.</li>
-						</ol>
-					</p>
-				</div>
-				<h2 style="text-align:center; margin-top: 1%;margin-bottom: 20px;">Why Chai Shots<h2>
-					<div class="row">
-						<div class="col-md-4">
-							<h2 style="text-align:center; margin-top: 10px; margin-bottom: 20px; ">Quality Ingredients<h2>
-							<img src="img/new/item1.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
-							<p style="font-size: 16px; text-align:center;">
-								Gastronomically-perfected techniques of Tea Brewing using a multitude of blends of tea leaves and spices. All prepared fresh on-order so each cup gets the original flavour.
+
+			<!-- Start video-sec Area -->
+			<section class="video-sec-area pb-100 pt-40" id="about">
+				<div class="container">
+					<div class="row justify-content-start align-items-center">
+						<div class="col-lg-6 justify-content-center align-items-center d-flex">
+							<img class="img-fluid" src="img/new/Chai_Shots_Thematic.jpg" alt="">
+						</div>						
+						<div class="col-lg-6 video-left">
+							<h1>What is ChaiShots</h1>
+							<p style="text-align:justify;">
+								<ol style="font-size: 16px;text-align: justify;" >
+											<li>1. We are a fast-casual chain of cafés under the brand of 'Chai Shots' with theaim of serving a daily dose of a healthy breakfast and all-day snacks with great chai.</li>
+											<br>
+											<li>2. We serve our customers (both retail and corporates) with faster turnaround times through a takeaway-model coupled with a backbone of a robust delivery system.</li>
+								</ol>
 							</p>
 						</div>
-						<div class="col-md-4">
-							<h2 style="text-align:center; margin-top: 10px; margin-bottom: 20px; ">Pocket-Friendly<h2>
-							<img src="img/new/item2.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
-							<p style="font-size: 16px; text-align:center;">
-								Affordable pricing, combining the goodness of an economical chai stall with the hygiene and comfort of a café.
-						</div>
-						<div class="col-md-4">
-							<h2 style="text-align:center; margin-top: 10px; margin-bottom: 20px; ">Quick Service<h2>
-							<img src="img/new/item3.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">
-							<p style="font-size: 16px; text-align:center;">
-								Low turn—around times with a backbone of a robust supply-chain and demand estimation.
+					</div>
+				</div>	
+			</section>
+			<!-- End video-sec Area -->
+
+			<!-- Start menu Area -->
+			<section class="menu-area section-gap" id="coffee">
+				<div class="container">
+					<div class="row d-flex justify-content-center">
+						<div class="menu-content pb-60 col-lg-10">
+							<div class="title text-center">
+								<h1 class="mb-10">Why Chai Shots</h1>
+							</div>
 						</div>
 					</div>
-				<div>
-					<h2 style="text-align:center; margin-top: 1%;">Value Proposition<h2>
-					<p> 
-						<ol style="font-size: 16px;" >
-							<li>1. Being in the fast-casual space, we serve freshly-prepared beverages and food in complete congruence with molecular gastronomy principles at pocket-friendly prices, thus creating an ‘everyday crave’ amongst our customers.</li>
-							<li>2. Based on the feedback of our customers, we have consistently scored more than 50 on our Net Promoter Scores bearing testimony of our immaculate product quality.</li>
-						</ol>
-					</p>
-				</div>	
-				<div>
-					<h2 style="text-align:center; margin-top: 1%;">Operating Pillars<h2>
-					<p style="font-size: 16px;"> 
-						We believe that a ‘chai break’ is an inevitable moment in all our walks of life and making this ubiquitous moment very special demands a freshly brewed cup of chai, with a wide variety of munchies as icing on the cake.
-					</p>
+					<div class="row">
+						<div class="col-lg-4">
+							<div class="single-menu">
+								<div class="title-div justify-content-between d-flex">
+									
+									<p class="price float-right">
+										<span><img width="50%" src="img/new/chaishot1.svg"></span>
+									</p>
+									<h4 style="margin-top:8%;">Quality Ingredients</h4>
+								</div>
+								<p>
+									Gastronomically-perfected techniques of Tea Brewing using a multitude of blends of tea leaves and spices.
+								</p>								
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-menu">
+								<div class="title-div justify-content-between d-flex">
+									
+									<p class="price float-right">
+										<span><img width="50%" src="img/new/chaishot2.svg"></span>
+									</p>
+									<h4 style="margin-top:8%;">Pocket-Friendly</h4>
+								</div>
+								<p>
+									Affordable pricing, combining the goodness of an economical chai stall with the hygiene and comfort of a café.
+								</p>								
+							</div>
+						</div>
+						<div class="col-lg-4">
+							<div class="single-menu">
+								<div class="title-div justify-content-between d-flex">
+									
+									<p class="price float-right">
+										<span><img width="50%" src="img/new/chaishot3.svg"></span>
+									</p>
+									<h4 style="margin-top:8%;"> Quick Service</h4>
+								</div>
+								<p>
+									Low turn—around times with a backbone of a robust supply-chain and demand estimation.
+								</p>								
+							</div>
+						</div>																	
+					</div>						
 				</div>
-				<img src="img/new/item5.png" style="display: block; margin-left: auto; margin-right: auto; width: 50%;">	
-			</div>
+			</section>
+			<!-- End menu Area -->
+
+			<!-- Start video-sec Area -->
+			<section class="video-sec-area pb-100 pt-40" id="about">
+				<div class="container">
+					<div class="row justify-content-start align-items-center">
+						<div class="col-lg-6 justify-content-center align-items-center d-flex">
+ 						
+							<img width="80%" class="img-fluid" src="img/new/chaishot4.svg" alt="">
+						</div>						
+						<div class="col-lg-6 video-left">
+							<h1>Value Proposition</h1>
+							<p style="text-align:justify;">
+								<ol style="font-size: 16px;" >
+										<li>1. Being in the fast-casual space, we serve freshly-prepared beverages and food in complete congruence with molecular gastronomy principles at pocket-friendly prices, thus creating an ‘everyday crave’ amongst our customers.</li><br>
+										<li>2. Based on the feedback of our customers, we have consistently scored more than 50 on our Net Promoter Scores bearing testimony of our immaculate product quality.</li>
+								</ol>
+							</p>
+						</div>
+					</div>
+				</div>	
+			</section>
+			<!-- End video-sec Area -->
+			
+			<!-- Start video-sec Area -->
+			<section class="video-sec-area pb-100 pt-40" id="about">
+				<div class="container">
+					<div class="row justify-content-start align-items-center">
+						<div class="col-lg-12">
+							<h1 style="text-align: center;">Operating Pillars</h1>
+							<p style="text-align:justify;margin-top: 2%;">
+								We believe that a ‘chai break’ is an inevitable moment in all our walks of life and making this ubiquitous moment very special demands a freshly brewed cup of chai, with a wide variety of munchies as icing on the cake.
+							</p>
+						</div>						
+					</div>
+					<img src="img/new/chaishot5.svg" style="display: block; margin-left: auto; margin-right: auto; "/>
+				</div>	
+			</section>
+			<!-- End video-sec Area -->
 			<!-- End Align Area -->
 			<?php include 'includes/footer.php'; ?>	
 		</body>
